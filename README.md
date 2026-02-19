@@ -1,5 +1,4 @@
-In this project, let's build a **Destination Search** app by applying the concepts we have learned till now.
-
+In this project, let's build a **Destination Search**.
 ### Refer to the image below:
 
 <br/>
@@ -16,15 +15,6 @@ In this project, let's build a **Destination Search** app by applying the concep
 - [Extra Small (Size < 576px) and Small (Size >= 576px)](https://assets.ccbp.in/frontend/content/react-js/destination-search-sm-output-v2.png)
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://assets.ccbp.in/frontend/content/react-js/destination-search-lg-output-v2.png)
 
-</details>
-
-### Set Up Instructions
-
-<details>
-<summary>Click to view</summary>
-
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
 </details>
 
 ### Completion Instructions
@@ -45,29 +35,6 @@ The app must have the following functionalities
   |  name  |  String   |
   | imgUrl |  String   |
 
-</details>
-
-<details>
-<summary>Components Structure</summary>
-
-<br/>
-<div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/destination-search-component-structure-v2-img.png" alt="destination search component structure" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
-</div>
-<br/>
-
-</details>
-
-<details>
-<summary>Implementation Files</summary>
-<br/>
-
-Use these files to complete the implementation:
-
-- `src/components/DestinationSearch/index.js`
-- `src/components/DestinationSearch/index.css`
-- `src/components/DestinationItem/index.js`
-- `src/components/DestinationItem/index.css`
 </details>
 
 ### Important Note
@@ -111,17 +78,5 @@ Use these files to complete the implementation:
 
 </details>
 
-<details>
-<summary>Font-families</summary>
 
-- Roboto
-- Open Sans
 
-</details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
